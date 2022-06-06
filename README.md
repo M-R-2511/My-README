@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ragab</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **react.js, asp.net**
+- 🌱 I’m currently learning **react.js, vue.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mr.vercel.app](https://portfolio-mr.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **mr2837465@gmail.com**
 
